@@ -1,0 +1,6 @@
+version = 1
+name = "fastly-onboarding"
+description = "Default package template used by the Fastly CLI for Rust-based Compute@Edge projects."
+authors = ["rui@meetup.com"]
+language = "rust"
+service_id = "4W2OYMVxTMPTleVWuy9zl3"
